@@ -1,5 +1,9 @@
+const title = <h1>Curso de React</h1>;
+
+console.log(title)
+
 const App = () => {
-	return <h1>Curso de React</h1>;
+	return title;
 };
 
 export default App;
